@@ -18,9 +18,6 @@ DEFAULT_HIPPO_CONNECTION = {
     "password": "admin",
 }
 
-
-
-
 class Hippo(VectorStore):
     """`Hippo` vector store.
 
